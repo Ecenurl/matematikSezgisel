@@ -1,6 +1,7 @@
 # Oran Orantı Ve Doğru Oran Ve Ters Oran
 
 ORAN
+
 İki çokluğun birbirine bölünerek karşılaştırılmasına oran denir. a ve b reel sayılarından en az biri sıfırdan farklı olmak üzere   ifadesine a’nın b’ye oranı denir.
 
 – Oranlanan çokluklardan ikisi aynı anda sıfır olamaz.
@@ -10,6 +11,7 @@ ORAN
 
 
 ORANTI VE SABİT ORANTI
+
 En az iki  oranın birbirine  eşit olması durumuna  orantı denir.
 Orantılı iki çokluktan biri artarken diğeri de aynı oranda artıyorsa ya da biri azalırken diğeri de aynı oranda azalıyorsa bu iki çokluk doğru orantılıdır denir.
 
@@ -21,6 +23,7 @@ doğru orantı için örnek olarak kek yapımını verebiliriz.Örneğin bir kek
 
 
 TERS ORANTI
+
 Orantılı iki çokluktan biri artarken diğeri aynı oranda azalıyorsa ya da biri azalırken diğeri aynı oranda artıyorsa bu iki çokluk ters orantılıdır denir.
 bunun içinde örnek vermek gerekirse.Günlük hayatta bilgisayarımızı sarj ettikten sonra kullanırken kullandığımız program sayısına göre sarj miktarı değişecektir.Örneğin 9 program çalışırken 4 saat sarjı bitmeden işlemlerimi gerçekleştirebiliyorsam 12 program çalıştırırken daha az sarj ömrü olmalı bu oranı hesaplarsak x.y=k olacağı için 9.4=36 olur buradan  12.m=36 ise m=3 olur yani 12 programı aynı anda çalıştırır ve işlem yaparsam bilgisayarım 3 saat dayanabilecektir.Ters orantı grafigi aşagıda verilmiştir.
 
